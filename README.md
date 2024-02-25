@@ -6,7 +6,7 @@ Upload your files and start QA on your custom data.
 
 - Unstructured: PDF, Text, Invoices
 - Structured: CSV
-- Image: Image, low pixel images, Bi dash boards, Graphs
+- Image: Image, low pixel images, BI dash boards, Graphs
 
 Models used :
 
